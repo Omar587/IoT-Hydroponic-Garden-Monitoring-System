@@ -1,5 +1,7 @@
-# plant-monitoring-system-android-app -  🚧 🚧 🚧 Migration to Spring Boot and React in Progress 🚧 🚧 🚧 🚧 
-An android app that monitors plants remotely.
+# plant-monitoring-system-android-app - An android app that monitors plants remotely.
+
+🚧 Migration to Spring Boot and React in Progress 🚧 
+
 
 
 
