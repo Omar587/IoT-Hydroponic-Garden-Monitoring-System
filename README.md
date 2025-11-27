@@ -1,4 +1,4 @@
-# plant-monitoring-system-app - An app that monitors plants remotely.
+# plant-monitoring-system-app 
 
 🚧 Migration to Spring Boot and React in Progress 🚧 
 
